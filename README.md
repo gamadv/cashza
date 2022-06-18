@@ -33,11 +33,6 @@ You can look on:
 
 Presently this app only works create incomes and budgets and make a total calc.
 
-<div align="center">
-    <img src="readme-assets/desk-side.png" width="600">
-
-</div>
-
 # :hammer: Technologies
 
 #### 📃 Dependencies: -> <i><kbd> [package.json](./package.json) </kbd></i>
