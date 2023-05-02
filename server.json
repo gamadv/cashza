@@ -23,6 +23,30 @@
       "category": "Educação",
       "price": 85,
       "createdAt": "2023-05-02T19:30:44.505Z"
+    },
+    {
+      "description": "Contajá",
+      "price": 2000,
+      "category": "Contabilidade",
+      "type": "outcome",
+      "createdAt": "2023-05-02T14:07:05.048Z",
+      "id": 4
+    },
+    {
+      "description": "s21 Fe",
+      "price": 2100,
+      "category": "Tecnologia",
+      "type": "outcome",
+      "createdAt": "2023-05-02T14:24:08.649Z",
+      "id": 5
+    },
+    {
+      "description": "Aparelho",
+      "price": 10,
+      "category": "Tecnologia",
+      "type": "outcome",
+      "createdAt": "2023-05-02T14:29:49.497Z",
+      "id": 6
     }
   ]
 }
