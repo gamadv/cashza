@@ -47,6 +47,14 @@
       "type": "outcome",
       "createdAt": "2023-05-02T14:29:49.497Z",
       "id": 6
+    },
+    {
+      "description": "Roupa Insider",
+      "price": 250,
+      "category": "Roupas",
+      "type": "outcome",
+      "createdAt": "2023-05-02T15:43:33.701Z",
+      "id": 7
     }
   ]
 }

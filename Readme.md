@@ -3,6 +3,7 @@ https://github.com/typicode/json-server
 
 ```bash
 dev:server
+```
 
 ## Forms behaviour
 
@@ -12,3 +13,6 @@ dev:server
 
 * Uncontrolled
 -> Search for info
+
+## Use Context Selector
+https://github.com/dai-shi/use-context-selector
